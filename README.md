@@ -1,7 +1,6 @@
 # Wintermute
 
-Hardware Overview
-Let’s summarize your machines and their capabilities:
+Hardware Overview (Beginning 20/05/2025...)
 
 Oscar (172.16.23.40/24):
 CPU: Intel i5-7300HQ (4 cores, 2.5GHz)
